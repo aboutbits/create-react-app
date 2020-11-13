@@ -1,7 +1,11 @@
 {
   "name": "@aboutbits/react-scripts",
-  "version": "4.0.4",
+  "version": "4.0.5",
   "description": "Configuration and scripts for Create React App.",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/facebook/create-react-app.git",
