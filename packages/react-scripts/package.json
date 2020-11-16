@@ -1,6 +1,6 @@
 {
-  "name": "aboutbits-react-scripts",
-  "version": "4.0.8",
+  "name": "@aboutbits/react-scripts",
+  "version": "4.0.9",
   "description": "Configuration and scripts for Create React App with Tailwind CSS support.",
   "repository": {
     "type": "git",
