@@ -1,7 +1,7 @@
 {
-  "name": "react-scripts",
+  "name": "@aboutbits/react-scripts",
   "version": "4.0.0",
-  "description": "Configuration and scripts for Create React App.",
+  "description": "Configuration and scripts for Create React App with Tailwind CSS support.",
   "repository": {
     "type": "git",
     "url": "https://github.com/facebook/create-react-app.git",
@@ -88,7 +88,8 @@
   },
   "devDependencies": {
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "tailwindcss": "^1.9.6"
   },
   "optionalDependencies": {
     "fsevents": "^2.1.3"
